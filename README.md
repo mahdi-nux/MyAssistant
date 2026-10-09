@@ -4,6 +4,10 @@ A simple local AI chat assistant built with **Rust**, **Iced**, **Tokio**, and *
 
 MyAssistant is a desktop application that runs a local language model and provides a native chat interface without relying on a remote AI API.
 
+## Screenshot
+
+![MyAssistant v0.1](screenshots/screenshot_from_v0-1.png)
+
 ## Features
 
 * 🖥️ Native desktop interface built with Iced
