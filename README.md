@@ -23,7 +23,7 @@ MyAssistant is a desktop application that runs a local language model and provid
 
 🚧 **Work in progress**
 
-The project is currently under development. The main goal is to build a simple and practical local AI assistant while learning more about Rust, desktop application architecture, and local LLM inference.
+The project is currently under development. The main goal is to build a simple and practical local AI assistant.
 
 ## License
 
