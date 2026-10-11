@@ -6,7 +6,7 @@ MyAssistant is a desktop application that runs a local language model and provid
 
 ## Screenshot
 
-![MyAssistant v0.1](screenshots/screenshot_from_v0-1.png)
+![MyAssistant v0.1](screenshots/screenshot_from_v0-1-1.png)
 
 ## Features
 
